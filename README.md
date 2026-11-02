@@ -87,6 +87,7 @@ Contributions are welcome. A simple workflow:
 2. Make one focused improvement.
 3. Test it in a browser.
 4. Open a pull request describing what changed.
+5. make it happy
 
 ## 📄 License
 
